@@ -1,0 +1,1 @@
+Quadratus is a permission management tool for the semantic web. It is build using javascript and works closely with the related S3DB Project.
